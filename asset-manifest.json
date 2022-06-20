@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nyamushka/static/css/main.7da6ff2b.css",
+    "main.js": "/nyamushka/static/js/main.c815e5d2.js",
+    "static/media/background.jpg": "/nyamushka/static/media/background.58dd71d8f3aa52c5f057.jpg",
+    "static/media/TrebuchetMS.ttf": "/nyamushka/static/media/TrebuchetMS.ffd344e1d1a2d27b8f4d.ttf",
+    "static/media/Exo20-Thin.ttf": "/nyamushka/static/media/Exo20-Thin.976725c4a5882fdb0321.ttf",
+    "static/media/TrebuchetMS.woff": "/nyamushka/static/media/TrebuchetMS.7ce229d30098cfc972f1.woff",
+    "static/media/TrebuchetMS.woff2": "/nyamushka/static/media/TrebuchetMS.2de3a6bf55c63cab8e8c.woff2",
+    "static/media/cat-bg.png": "/nyamushka/static/media/cat-bg.78ce617086f0efbfa6e1.png",
+    "static/media/Exo20-Thin.woff": "/nyamushka/static/media/Exo20-Thin.ac75afff93bf2c4c4581.woff",
+    "static/media/Exo20-Thin.woff2": "/nyamushka/static/media/Exo20-Thin.19b1191a35a15a01ff0a.woff2",
+    "index.html": "/nyamushka/index.html",
+    "main.7da6ff2b.css.map": "/nyamushka/static/css/main.7da6ff2b.css.map",
+    "main.c815e5d2.js.map": "/nyamushka/static/js/main.c815e5d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da6ff2b.css",
+    "static/js/main.c815e5d2.js"
+  ]
+}
